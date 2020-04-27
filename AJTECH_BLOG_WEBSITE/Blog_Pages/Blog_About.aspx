@@ -18,7 +18,6 @@
         <article id="main-col">
           <h1 class="page-title">About Us</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
             varius auctor lacus nec feugiat. Phasellus sit amet ex ipsum.
             Praesent pharetra tincidunt tempor. Etiam velit eros, dapibus eget
             porta in, lacinia et magna. Nam eget eros non orci consectetur
